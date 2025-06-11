@@ -60,7 +60,7 @@ http://localhost:8080
 ## 🎥 Demo Video
 
 Watch the app in action:  
-[Click to view demo](./demo/demo.mp4)
+[Click to view demo](https://drive.google.com/file/d/1DpmMwW603QggJUVt7JBQ5zFzD6Iw7rF7/view?usp=sharing)
 
 ---
 
